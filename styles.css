@@ -1,0 +1,24 @@
+body {
+  margin-top: 100px;
+  font-family: "Outfit", sans-serif;
+  background-color: rgb(61, 66, 71);
+  text-align: center;
+  font-size: 15px;
+}
+
+#box-design {
+  background-color: rgb(255, 255, 255);
+  display: inline-block;
+  border-radius: 25px;
+  width: 450px;
+  height: auto;
+  padding: 20px;
+}
+
+#barcode {
+  padding: 30px;
+  background: linear-gradient(217deg, rgb(105, 146, 221), rgb(31, 50, 81));
+  width: 390px;
+  height: auto;
+  border-radius: 25px;
+}
